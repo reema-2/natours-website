@@ -1,9 +1,9 @@
-# Grid Project:
+# Natours Project:
 
-This website was built as a project for the Udemy Advanced CSS and Sass course. The purpose of the project is to demonstrate understanding of grid.
+This website was built as a project for the Udemy Advanced CSS and Sass course. The purpose of the project is to demonstrate understanding of animations and responsive website and more.
 
 ### Demo:
-https://grid-re.netlify.app/
+https://animation-w-re.netlify.app/
 
 ### Technologies used:
  - HTML
